@@ -490,7 +490,7 @@ span{
                             "piedepagina";
     }
     .mainproductos{
-        grid:galeria;
+        grid-area:galeria;
     }
     .iniciogaleria{
         height: 400px;
